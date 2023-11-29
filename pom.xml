@@ -12,6 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <compileSource>17</compileSource>
   </properties>
 
   <dependencies>
