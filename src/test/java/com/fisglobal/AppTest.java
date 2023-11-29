@@ -17,6 +17,6 @@ public class AppTest {
         Random random = new Random();
         int rand = random.nextInt(100);
 
-        assertTrue(true);
+        assertTrue(rand < 50);
     }
 }
